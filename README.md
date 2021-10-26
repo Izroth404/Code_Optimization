@@ -19,3 +19,6 @@ In Software Engineering, optimization is the process of modifying a software pro
 8. Navigate to this repository on GitHub. To create a pull request, `click on compare and pull requests` 
 9. Add title and info
 10. Press `Create Pull Request`
+
+
+### Show some ❤️ by starring this repo!
